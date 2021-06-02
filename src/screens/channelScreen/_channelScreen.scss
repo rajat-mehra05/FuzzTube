@@ -1,0 +1,38 @@
+@import "../../_base.scss";
+
+.channelHeader {
+  border-bottom: 1px solid $border-color;
+
+  img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+  }
+  button {
+    text-transform: uppercase;
+    margin-right: 2rem;
+    background-color: rgb(238, 18, 18);
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.4rem;
+    border: none;
+    &:hover {
+      background-color: rgb(179, 27, 27);
+    }
+  }
+}
+
+@media (max-width: $breakpoint-medium) {
+  .channelHeader {
+    padding: 1.1girem 0;
+
+    img {
+      width: 50px;
+      height: 50px;
+    }
+    h3 {
+      font-size: 1rem;
+      margin: 0;
+    }
+  }
+}
