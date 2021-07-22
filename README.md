@@ -9,8 +9,10 @@
 
 ## Issues with API
 
-- While commenting, your comment/comments won't be rendered instantly. It might, but very rarely though the same comment will be rendered in original YouTube post.
-    - Reason being →
+- While commenting, your comment/comments won't be rendered instantly. It might, but very rarely though the same comment will be 
+  rendered instantly in original YouTube post.
+    
+  Reason being →
 
         That depends on rest API speed which delays the rendering.
         Now you might ask me that how it instantly shows the comment in the YouTube app or website.. There are some reasons:
