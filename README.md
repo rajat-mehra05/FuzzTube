@@ -4,7 +4,7 @@
 
 ## Features
 - User can comment on the videos. Usually the comments are posted a little late due to
-  poor Youtube API (though you can see your comments instantly in original YouTube)
+  poor Youtube API (though you can see your comments instantly on original YouTube video)
 - Users can see their subscribed channels from their authorized email address. 
 
 ## Issues with API
